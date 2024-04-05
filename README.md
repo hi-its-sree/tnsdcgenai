@@ -1,4 +1,4 @@
-Fake News Detection using LSTM
+Fake News Classifier using LSTM
 This repository contains code for detecting fake news using Long Short-Term Memory (LSTM) networks. The LSTM model is implemented using TensorFlow and Keras. The model is trained on a dataset containing news articles labeled as either real or fake.
 
 Dataset
